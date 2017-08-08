@@ -1,9 +1,11 @@
-####Using: 
+### tl;dr setup of https://github.com/google/dagger
+
+#### Using: 
 - Dagger 2
 - Maven
 - IntelliJ IDEA
 
-####Steps:
+#### Steps:
 - Add Dagger 2 dependency
 ```xml
 <dependency>
