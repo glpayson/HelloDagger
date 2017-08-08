@@ -16,11 +16,6 @@ dependency-reduced-pom.xml
 *.war
 *.ear
 
-
-# Build output directories #
-############################
-/target
-
 # IntelliJ specific files/directories #
 ######################################
 *.iml
